@@ -1,0 +1,15 @@
+C:\Users\matea\Desktop\OOP\AV1-primjeri\bin\Debug\net8.0\AV1-primjeri.exe
+C:\Users\matea\Desktop\OOP\AV1-primjeri\bin\Debug\net8.0\AV1-primjeri.deps.json
+C:\Users\matea\Desktop\OOP\AV1-primjeri\bin\Debug\net8.0\AV1-primjeri.runtimeconfig.json
+C:\Users\matea\Desktop\OOP\AV1-primjeri\bin\Debug\net8.0\AV1-primjeri.dll
+C:\Users\matea\Desktop\OOP\AV1-primjeri\bin\Debug\net8.0\AV1-primjeri.pdb
+C:\Users\matea\Desktop\OOP\AV1-primjeri\obj\Debug\net8.0\AV1-primjeri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matea\Desktop\OOP\AV1-primjeri\obj\Debug\net8.0\AV1-primjeri.AssemblyInfoInputs.cache
+C:\Users\matea\Desktop\OOP\AV1-primjeri\obj\Debug\net8.0\AV1-primjeri.AssemblyInfo.cs
+C:\Users\matea\Desktop\OOP\AV1-primjeri\obj\Debug\net8.0\AV1-primjeri.csproj.CoreCompileInputs.cache
+C:\Users\matea\Desktop\OOP\AV1-primjeri\obj\Debug\net8.0\AV1-primjeri.sourcelink.json
+C:\Users\matea\Desktop\OOP\AV1-primjeri\obj\Debug\net8.0\AV1-primjeri.dll
+C:\Users\matea\Desktop\OOP\AV1-primjeri\obj\Debug\net8.0\refint\AV1-primjeri.dll
+C:\Users\matea\Desktop\OOP\AV1-primjeri\obj\Debug\net8.0\AV1-primjeri.pdb
+C:\Users\matea\Desktop\OOP\AV1-primjeri\obj\Debug\net8.0\AV1-primjeri.genruntimeconfig.cache
+C:\Users\matea\Desktop\OOP\AV1-primjeri\obj\Debug\net8.0\ref\AV1-primjeri.dll
