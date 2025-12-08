@@ -1,0 +1,14 @@
+C:\Users\matea\source\repos\AV1-vjezba\bin\Debug\net7.0\AV1-vjezba.exe
+C:\Users\matea\source\repos\AV1-vjezba\bin\Debug\net7.0\AV1-vjezba.deps.json
+C:\Users\matea\source\repos\AV1-vjezba\bin\Debug\net7.0\AV1-vjezba.runtimeconfig.json
+C:\Users\matea\source\repos\AV1-vjezba\bin\Debug\net7.0\AV1-vjezba.dll
+C:\Users\matea\source\repos\AV1-vjezba\bin\Debug\net7.0\AV1-vjezba.pdb
+C:\Users\matea\source\repos\AV1-vjezba\obj\Debug\net7.0\AV1-vjezba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matea\source\repos\AV1-vjezba\obj\Debug\net7.0\AV1-vjezba.AssemblyInfoInputs.cache
+C:\Users\matea\source\repos\AV1-vjezba\obj\Debug\net7.0\AV1-vjezba.AssemblyInfo.cs
+C:\Users\matea\source\repos\AV1-vjezba\obj\Debug\net7.0\AV1-vjezba.csproj.CoreCompileInputs.cache
+C:\Users\matea\source\repos\AV1-vjezba\obj\Debug\net7.0\AV1-vjezba.dll
+C:\Users\matea\source\repos\AV1-vjezba\obj\Debug\net7.0\refint\AV1-vjezba.dll
+C:\Users\matea\source\repos\AV1-vjezba\obj\Debug\net7.0\AV1-vjezba.pdb
+C:\Users\matea\source\repos\AV1-vjezba\obj\Debug\net7.0\AV1-vjezba.genruntimeconfig.cache
+C:\Users\matea\source\repos\AV1-vjezba\obj\Debug\net7.0\ref\AV1-vjezba.dll

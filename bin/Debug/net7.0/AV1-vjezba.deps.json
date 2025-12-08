@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AV1-vjezba/1.0.0": {
+        "runtime": {
+          "AV1-vjezba.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AV1-vjezba/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
